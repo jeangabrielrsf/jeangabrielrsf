@@ -62,8 +62,8 @@
 ###
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/jeangabrielrsf/blob/output/snake.svg" alt="Snake animation" />
+![snake gif]
+(https://github.com/jeangabrielrsf/jeangabrielrsf/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
