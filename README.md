@@ -63,7 +63,7 @@
 
 <br clear="both">
 ![snake gif]
-(https://github.com/jeangabrielrsf/jeangabrielrsf/blob/output/github-contribution-grid-snake.svg)
+https://github.com/jeangabrielrsf/jeangabrielrsf/blob/output/github-contribution-grid-snake.svg
 
 ###
 
