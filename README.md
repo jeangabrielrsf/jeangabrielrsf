@@ -3,6 +3,7 @@
 ###
 
 <h4 align="left">Just an ordinary guy who loves to code. And to drink lots of coffee! :p</h4>
+<h4 align="left">I'm currently learning Java + Spring Boot and AngularJS </h4>
 
 ###
 
